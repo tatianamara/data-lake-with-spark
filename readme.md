@@ -34,7 +34,7 @@ You'll be able to test your database and ETL pipeline by running queries given t
 - Deploy this Spark process on a cluster using AWS.
 
 ### Star Schema Model  
-![Star Schema Model](https://github.com/tatianamara/data-lake-with-spark.git/blob/main/star_schema_model.png)
+![Star Schema Model](https://github.com/tatianamara/data-lake-with-spark/blob/main/star_schema_model.png)
 
 - The fact table `songplays` stores the records in log data associated with song plays i.e. records with page.
 
